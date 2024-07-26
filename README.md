@@ -14,8 +14,16 @@ Kodluyoruz Eğitimi kapsamında Merge sort proje Proje 2 Ödevi
     ### [12, 22] dizisi de tekrar ikiye bölünür:
     [12] ve [22]
   ##   3. Alt dizileri birleştirme (ve sıralama) aşaması:
+    [21] ve [11] birleştirilir ve sıralanır:
+    ### [11, 21]
+    [16] ve [11, 21] birleştirilir ve sıralanır:
+    ### [11, 16, 21]
+
+
+
+
   ' [21] ve [11] birleştirilir ve sıralanır:
     ### [11, 21] 
-  ' [16] ve [11, 21] birleştirilir ve sıralanır:
+    [16] ve [11, 21] birleştirilir ve sıralanır:
 
 
