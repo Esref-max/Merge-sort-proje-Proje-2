@@ -28,5 +28,5 @@ Kodluyoruz Eğitimi kapsamında Merge sort proje Proje 2 Ödevi
     ### En iyi durum    :𝑂(𝑛log𝑛)
     ### Ortalama durum  :𝑂(𝑛log𝑛) 
     ### En kötü durum   :𝑂(𝑛log𝑛)
- Merge sort'un uzay karmaşıklığı ise 𝑂(𝑛)
-O(n)'dir çünkü ek bir dizi kullanılarak elemanlar birleştirilir.   
+ Merge sort'un uzay karmaşıklığı ise 𝑂(𝑛)'dir çünkü ek bir dizi kullanılarak elemanlar birleştirilir.
+   
