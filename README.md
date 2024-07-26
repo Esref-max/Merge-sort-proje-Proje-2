@@ -18,12 +18,5 @@ Kodluyoruz Eğitimi kapsamında Merge sort proje Proje 2 Ödevi
     ### [11, 21]
     [16] ve [11, 21] birleştirilir ve sıralanır:
     ### [11, 16, 21]
-
-
-
-
-  ' [21] ve [11] birleştirilir ve sıralanır:
-    ### [11, 21] 
-    [16] ve [11, 21] birleştirilir ve sıralanır:
-
-
+    [12] ve [22] birleştirilir ve sıralanır:
+    ### [8, 12, 22]
