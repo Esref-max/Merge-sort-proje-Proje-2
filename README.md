@@ -20,3 +20,12 @@ Kodluyoruz Eğitimi kapsamında Merge sort proje Proje 2 Ödevi
     ### [11, 16, 21]
     [12] ve [22] birleştirilir ve sıralanır:
     ### [8, 12, 22]
+    Son olarak, [11, 16, 21] ve [8, 12, 22] birleştirilir ve sıralanır:
+    ### [8, 11, 12, 16, 21, 22]
+
+# Big-O Gösterimi
+  ## Merge sort'un zaman karmaşıklığı:
+    ### En iyi durum    :𝑂(𝑛log𝑛)
+    ### Ortalama durum  :𝑂(𝑛log𝑛) 
+    ### En kötü durum   :𝑂(𝑛log𝑛)
+    
